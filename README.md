@@ -145,4 +145,4 @@ MIT - see [LICENSE](LICENSE). U8g2 is a separate project under its own license (
 ## Related
 
 - [U8g2](https://github.com/olikraus/u8g2) - the graphics library used here
-- [tinkerberg.com](https://www.tinkerberg.com) - shop
+- [tinkerberg.com](https://www.tinkerberg.com) - online shop
